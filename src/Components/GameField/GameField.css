@@ -1,0 +1,17 @@
+div.game-field {
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+
+    font-size: 5vh;
+
+    flex: 1 0 30%;
+    border: 1px solid black;
+
+    cursor: pointer;
+}
+
+div.game-field p {
+    height: 70px;
+}
